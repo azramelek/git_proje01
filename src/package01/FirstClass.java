@@ -8,6 +8,7 @@ public class FirstClass {
         
         System.out.println("masterdan yeni bir commit");
         System.out.println("some guncelleme");
+	System.out.println("masterdan yeni bir commit");
         
         
         
