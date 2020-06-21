@@ -7,7 +7,11 @@ public class FirstClass {
         System.out.println("ikinci commit from local repository");
         
         System.out.println("masterdan yeni bir commit");
+		
+        System.out.println("some updates");
+        System.out.println("some more");
         
+        System.out.println("Gulser remote yeni bir commit");
         
         
         
